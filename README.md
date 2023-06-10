@@ -16,6 +16,16 @@ git checkout <Nome_da_branch>: Muda de brangh ou ramo.
 -
 git merge <nome_da_branch>: Ele adiciona o branch atual o conteúdo de outra branch.
 -
+git clonhe <url>: Baixa o projeto do repositório.
+-
+git push: Ele envia as alterações para o repositório.
+-
+git pull: Ele puxa as alterações do repositório.
+
+
+
+Possiveis Erros:
+403: Apagando as credenciais, gerenciamento de credenciais
 
 
 
