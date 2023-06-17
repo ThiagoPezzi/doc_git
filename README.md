@@ -61,6 +61,7 @@ git pull
 
 ### Possiveis Erros:
 403: Apagando as credenciais, gerenciamento de credenciais
+Gerenciador de credenciais / Credenciais do windowns
 
 
 
