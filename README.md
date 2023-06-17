@@ -11,12 +11,12 @@ git add
 Ele é responsavel por criar uma nova versão do projeto.
 ````
 git commit -m "<texto-da-modificação>"
-´´´
+````
 
  Validar os meus comentários e modificações;
 ````
 git log
-´´´´
+````
 
 Cria uma nova branch ou ramo.
 ````
@@ -59,6 +59,6 @@ Cofigurações de usuário do git:
 ````
 git config --global user.email "you@example.com"
 ````
-´´´´
+````
 git config --global user.name "Your Name"
 ````
