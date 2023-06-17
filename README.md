@@ -4,6 +4,14 @@ Documentação do git: comandos Inicia o arquivo ".git/" para controlar a pasta.
 ````
 git status:
 ````
+<img width="454" alt="gitstatus" src="https://github.com/ThiagoPezzi/doc_git/assets/112133027/3652e4d2-cb3c-4352-8654-a60e2437ea5a">
+
+###  Ele inicia o arquivo "/.git" para controlar a pasta.
+````
+git init
+````
+<img width="454" alt="gitinit" src="https://github.com/ThiagoPezzi/doc_git/assets/112133027/0dab33dd-0f90-41ac-8f65-f7720ab3f5ac">
+
 ### Ele é responsável por colocar o arquivo modificado em uma área segura.
 ````
 git add
@@ -37,6 +45,7 @@ git merge <nome_da_branch>
 ````
 git clonhe <url>
 ````
+<img width="455" alt="gitclone" src="https://github.com/ThiagoPezzi/doc_git/assets/112133027/6ce2559f-414e-4d54-be1c-6946ad7acf05">
 
 ### Ele envia as alterações para o repositório.
 ````
