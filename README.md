@@ -20,6 +20,15 @@ git add
 ````
 git commit -m "<texto-da-modificação>"
 ````
+### excluir um branch no local
+````
+git branch -d nomeDoBranchLocal
+````
+
+### excluir um branch remoto
+````
+git push origin --delete nomeDoBranchRemoto
+````
 
 ### Validar os meus comentários e modificações;
 ````
